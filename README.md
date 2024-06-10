@@ -13,9 +13,9 @@ Vídeo feito com IA a partir de uma imagem estática e um áudio gravado com o c
 Para encontrar uma imagem minha estática, peguei um vídeo onde eu apresentava informações e selecionei um frame adequado. Usei "insMind" para eliminar o background, pois seria uma edição bem difícil de fazer manualmente, já que o fundo era uma praça arborizada. Pelo "GIMP" fiz o corte da imagem e ajustei brilho e contraste. Gravei o áudio no celular, converti para MP3 com o "Audacity" e subi imagem e áudio para o "D-iD', que fez a animação e gerou o vídeo.
 
 ## 🚀 Resultados
-O uso gratuito dessas ferramentas é limitado, mas o resultado ficou bastante satisfatório.
+O uso gratuito dessas ferramentas é limitado, mas o resultado ficou bastante satisfatório (apesar da marca d'água).
 
-**[Veja aqui]()**
+**[Veja aqui](https://drive.google.com/file/d/1NDyW0JQTdzxGPjmUY0vWpPd1V_lXNHhi/view?usp=sharing)**
 
 ## 💭 Reflexão
 Esse exemplo, feito em cerca de uma hora, demonstra como é simples criar fakes com a tecnologia atual.
